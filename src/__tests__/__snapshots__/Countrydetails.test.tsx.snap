@@ -1,0 +1,334 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`country component test 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <h3
+          style="text-align: center;"
+        >
+          Country Details
+        </h3>
+        <div
+          class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 css-7vqw9k-MuiPaper-root"
+          style="box-shadow: 5px 10px #888888; border: 1px solid black; width: 25rem; height: 13rem;"
+        >
+          <div
+            style="float: left;"
+          >
+            <table
+              style="margin-bottom: 3rem;"
+            >
+              <tr>
+                <td
+                  style="text-align: left;"
+                >
+                   CountryName  
+                </td>
+                <td
+                  style="text-align: left;"
+                >
+                  : 
+                  <b />
+                </td>
+              </tr>
+              <tr>
+                <td
+                  style="text-align: left;"
+                >
+                  Capital 
+                </td>
+                <td
+                  style="text-align: left;"
+                >
+                  : 
+                  <b />
+                </td>
+              </tr>
+              <tr>
+                <td
+                  style="text-align: left;"
+                >
+                  Population 
+                </td>
+                <td
+                  style="text-align: left;"
+                >
+                  : 
+                  <b>
+                    0
+                  </b>
+                </td>
+              </tr>
+              <tr>
+                <td
+                  style="text-align: left;"
+                >
+                  Latitude 
+                </td>
+                <td
+                  style="text-align: left;"
+                >
+                  : 
+                  <b>
+                    0
+                  </b>
+                </td>
+              </tr>
+              <tr>
+                <td
+                  style="text-align: left;"
+                >
+                  Longitude 
+                </td>
+                <td
+                  style="text-align: left;"
+                >
+                  : 
+                  <b>
+                    0
+                  </b>
+                </td>
+              </tr>
+            </table>
+            <a
+              href="/weather/"
+              style="text-decoration: none;"
+            >
+              <button
+                aria-label="delete"
+                class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeLarge css-mf1cb5-MuiButtonBase-root-MuiIconButton-root"
+                tabindex="0"
+                type="button"
+              >
+                <button
+                  class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-sghohy-MuiButtonBase-root-MuiButton-root"
+                  tabindex="0"
+                  type="button"
+                >
+                  Capital Weather
+                  <span
+                    class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                  />
+                </button>
+                <span
+                  class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                />
+              </button>
+            </a>
+          </div>
+          <div
+            style="float: left;"
+          >
+            <div
+              class="MuiAvatar-root MuiAvatar-rounded MuiAvatar-colorDefault css-3q23wa-MuiAvatar-root"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiAvatar-fallback css-10mi8st-MuiSvgIcon-root-MuiAvatar-fallback"
+                data-testid="PersonIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <h3
+        style="text-align: center;"
+      >
+        Country Details
+      </h3>
+      <div
+        class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 css-7vqw9k-MuiPaper-root"
+        style="box-shadow: 5px 10px #888888; border: 1px solid black; width: 25rem; height: 13rem;"
+      >
+        <div
+          style="float: left;"
+        >
+          <table
+            style="margin-bottom: 3rem;"
+          >
+            <tr>
+              <td
+                style="text-align: left;"
+              >
+                 CountryName  
+              </td>
+              <td
+                style="text-align: left;"
+              >
+                : 
+                <b />
+              </td>
+            </tr>
+            <tr>
+              <td
+                style="text-align: left;"
+              >
+                Capital 
+              </td>
+              <td
+                style="text-align: left;"
+              >
+                : 
+                <b />
+              </td>
+            </tr>
+            <tr>
+              <td
+                style="text-align: left;"
+              >
+                Population 
+              </td>
+              <td
+                style="text-align: left;"
+              >
+                : 
+                <b>
+                  0
+                </b>
+              </td>
+            </tr>
+            <tr>
+              <td
+                style="text-align: left;"
+              >
+                Latitude 
+              </td>
+              <td
+                style="text-align: left;"
+              >
+                : 
+                <b>
+                  0
+                </b>
+              </td>
+            </tr>
+            <tr>
+              <td
+                style="text-align: left;"
+              >
+                Longitude 
+              </td>
+              <td
+                style="text-align: left;"
+              >
+                : 
+                <b>
+                  0
+                </b>
+              </td>
+            </tr>
+          </table>
+          <a
+            href="/weather/"
+            style="text-decoration: none;"
+          >
+            <button
+              aria-label="delete"
+              class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeLarge css-mf1cb5-MuiButtonBase-root-MuiIconButton-root"
+              tabindex="0"
+              type="button"
+            >
+              <button
+                class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-sghohy-MuiButtonBase-root-MuiButton-root"
+                tabindex="0"
+                type="button"
+              >
+                Capital Weather
+                <span
+                  class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                />
+              </button>
+              <span
+                class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+              />
+            </button>
+          </a>
+        </div>
+        <div
+          style="float: left;"
+        >
+          <div
+            class="MuiAvatar-root MuiAvatar-rounded MuiAvatar-colorDefault css-3q23wa-MuiAvatar-root"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiAvatar-fallback css-10mi8st-MuiSvgIcon-root-MuiAvatar-fallback"
+              data-testid="PersonIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
