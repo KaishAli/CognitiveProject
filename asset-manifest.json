@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CognitiveProject/static/css/main.bf3c94aa.css",
+    "main.js": "/CognitiveProject/static/js/main.aa865c7c.js",
+    "static/js/787.69ddda07.chunk.js": "/CognitiveProject/static/js/787.69ddda07.chunk.js",
+    "index.html": "/CognitiveProject/index.html",
+    "main.bf3c94aa.css.map": "/CognitiveProject/static/css/main.bf3c94aa.css.map",
+    "main.aa865c7c.js.map": "/CognitiveProject/static/js/main.aa865c7c.js.map",
+    "787.69ddda07.chunk.js.map": "/CognitiveProject/static/js/787.69ddda07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf3c94aa.css",
+    "static/js/main.aa865c7c.js"
+  ]
+}
